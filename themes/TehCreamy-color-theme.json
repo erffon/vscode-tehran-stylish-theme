@@ -131,7 +131,7 @@
     "tab.unfocusedActiveBorderTop": "#ffffff15",
     "tab.unfocusedHoverBackground": "#6e76811a",
     "terminal.background": "#000000",
-    "terminal.foreground": "#87f439",
+    "terminal.foreground": "#fcd5ce",
     "terminal.inactiveSelectionBackground": "#3a3d41",
     "terminal.tab.activeBorder": "#fcd5ce",
     "textBlockQuote.background": "#010409",
