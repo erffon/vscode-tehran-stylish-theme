@@ -2,7 +2,7 @@
   "name": "tehran-dark-stylish-themes",
   "displayName": "Tehran Dark Stylish Themes",
   "description": "A stylish vs code theme made by Tehran,Iran developer ",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "publisher": "ErfanRanjbaran",
   "icon": "images/logo.jpg",
   "engines": {
@@ -57,7 +57,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/TehCreamy-color-theme.json"
       },
-      { 
+      {
         "label": "TehAqua",
         "uiTheme": "vs-dark",
         "path": "./themes/TehAqua-color-theme.json"
@@ -71,7 +71,6 @@
         "label": "TehOlive",
         "uiTheme": "vs-dark",
         "path": "./themes/TehOlive-color-theme.json"
-
       }
     ]
   }
