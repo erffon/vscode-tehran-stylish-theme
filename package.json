@@ -1,0 +1,42 @@
+{
+  "name": "tehran-dark-pinky-theme",
+  "displayName": "Tehran Dark Pinky Theme",
+  "description": "A stylish pinky vs code theme made for Tehran,Iran developer ",
+  "version": "0.2.0",
+  "publisher": "ErfanRanjbaran",
+  "icon": "images/theme-icon.png",
+  "engines": {
+    "vscode": "^0.50.0"
+  },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/erffon/vscode-tehran-pinky-theme.git"
+  },
+  "keywords": [
+    "theme",
+    "Theme",
+    "Tehran",
+    "tehran",
+    "pink color",
+    "pinky theme",
+    "Tehran Theme",
+    "girl theme",
+    "theme for girls",
+    "theme developer",
+    "Erfan Ranjbaran",
+    "Erfan",
+    "Ranjbaran"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "TehPinky",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehPinky-color-theme.json"
+      }
+    ]
+  }
+}
