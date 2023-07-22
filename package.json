@@ -2,9 +2,9 @@
   "name": "tehran-dark-pinky-theme",
   "displayName": "Tehran Dark Pinky Theme",
   "description": "A stylish pinky vs code theme made for Tehran,Iran developer ",
-  "version": "0.2.0",
+  "version": "0.6.0",
   "publisher": "ErfanRanjbaran",
-  "icon": "images/theme-icon.png",
+  "icon": "images/theme-logo.jpg",
   "engines": {
     "vscode": "^0.50.0"
   },
@@ -41,6 +41,16 @@
         "label": "TehPinky",
         "uiTheme": "vs-dark",
         "path": "./themes/TehPinky-color-theme.json"
+      },
+      {
+        "label": "TehCreamy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehCreamy-color-theme.json"
+      },
+      {
+        "label": "TehPomp",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehPomp-color-theme.json"
       }
     ]
   }
