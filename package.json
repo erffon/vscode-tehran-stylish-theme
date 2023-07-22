@@ -1,7 +1,7 @@
 {
-  "name": "tehran-dark-pinky-theme",
-  "displayName": "Tehran Dark Pinky Theme",
-  "description": "A stylish pinky vs code theme made for Tehran,Iran developer ",
+  "name": "tehran-dark-stylish-themes",
+  "displayName": "Tehran Dark Stylish Themes",
+  "description": "A stylish vs code theme made by Tehran,Iran developer ",
   "version": "0.6.0",
   "publisher": "ErfanRanjbaran",
   "icon": "images/theme-logo.jpg",
@@ -30,7 +30,17 @@
     "Lotfi",
     "Sadeq Lotfi",
     "Sadiloo",
-    "Creamy"
+    "Creamy",
+    "Olive",
+    "olive theme",
+    "olive theme",
+    "dark green theme",
+    "green theme",
+    "tehran olive theme",
+    "iran",
+    "vs code green theme",
+    "vscode green",
+    "vscode theme"
   ],
   "categories": [
     "Themes"
@@ -46,6 +56,21 @@
         "label": "TehCreamy",
         "uiTheme": "vs-dark",
         "path": "./themes/TehCreamy-color-theme.json"
+      },
+      {
+        "label": "TehAqua",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehAqua-color-theme.json"
+      },
+      {
+        "label": "TehPotato",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehPotato-color-theme.json"
+      },
+      {
+        "label": "TehOlive",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehOlive-color-theme.json"
       }
     ]
   }
