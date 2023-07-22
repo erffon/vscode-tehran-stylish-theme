@@ -4,7 +4,7 @@
   "description": "A stylish pinky vs code theme made for Tehran,Iran developer ",
   "version": "0.3.0",
   "publisher": "ErfanRanjbaran",
-  "icon": "images/theme-icon.png",
+  "icon": "images/theme-logo.png",
   "engines": {
     "vscode": "^0.50.0"
   },
