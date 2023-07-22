@@ -4,7 +4,7 @@
   "description": "A stylish vs code theme made by Tehran,Iran developer ",
   "version": "1.1.0",
   "publisher": "ErfanRanjbaran",
-  "icon": "images/theme-logo.jpg",
+  "icon": "images/logo.jpg",
   "engines": {
     "vscode": "^0.50.0"
   },
