@@ -41,6 +41,11 @@
         "label": "TehPinky",
         "uiTheme": "vs-dark",
         "path": "./themes/TehPinky-color-theme.json"
+      },
+      {
+        "label": "TehCreamy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/TehCreamy-color-theme.json"
       }
     ]
   }
