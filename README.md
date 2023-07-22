@@ -1,4 +1,4 @@
-# tehran-dark-pinky-theme
+# tehran-dark-stylish-theme
 
 well design theme for developers who like pinky colors
 
