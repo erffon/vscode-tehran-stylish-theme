@@ -57,7 +57,7 @@
         "uiTheme": "vs-dark",
         "path": "./themes/TehCreamy-color-theme.json"
       },
-      {
+      { 
         "label": "TehAqua",
         "uiTheme": "vs-dark",
         "path": "./themes/TehAqua-color-theme.json"
@@ -71,6 +71,7 @@
         "label": "TehOlive",
         "uiTheme": "vs-dark",
         "path": "./themes/TehOlive-color-theme.json"
+
       }
     ]
   }
